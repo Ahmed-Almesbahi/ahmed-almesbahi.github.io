@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "ahmed-almesbahi",
+  username: "Ahmed Almesbahi",
   title: "Hi all, I'm Ahmed",
   subTitle: emoji(
     "A passionate Senior Full Stack Software Developer 🚀 with over 7 years of experience of building Mobile, Web, and Blockchain technologies with TypeScript / Reactjs / Nodejs / React Native / Solidity / GraphQl and some other cool libraries and frameworks."
@@ -36,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/ahmed-almesbahi",
   linkedin: "https://www.linkedin.com/in/ahmed-almesbahi/",
   gmail: "amusbahisa@gmail.com",
-  // gitlab: "https://gitlab.com/saadpasta",
+  telegram: "https://web.telegram.org/k/#@amusbahisa",
   // facebook: "https://www.facebook.com/saad.pasta7",
   // medium: "https://medium.com/@saadpasta",
   // twitter: "https://twitter.com/masteryo_sa",

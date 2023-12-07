@@ -47,7 +47,6 @@ export default function Projects() {
       <Suspense fallback={renderLoader()}>
         <div className="main" id="opensource">
           <h1 className="project-title">Open-Sourcing Large Abandoned Projects</h1>
-          <p>Each of the projects listed below has been built from the ground up by me.</p>
           <div className="repo-cards-div-main">
             {repo.map((v, i) => {
               if (!v) {

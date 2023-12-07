@@ -40,6 +40,7 @@ export default function Greeting() {
               <SocialMedia />
               <div className="button-greeting-div">
                 <Button text="Contact me" href="#contact" />
+                <Button text="Book me" href="https://amusbahisa.youcanbook.me/" />
                 {greeting.resumeLink && (
                   <Button
                     text="See my resume"
